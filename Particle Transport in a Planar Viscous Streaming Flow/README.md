@@ -1,0 +1,1 @@
+The state space here is S \in \mathbb{R}^2 and the action space is A \subset \mathbb{Z}. A is closed. This system hence is controlled using DQN. For this particular example, I used my personal neural network package (Ankh.jl) due to package version dependency issues.
